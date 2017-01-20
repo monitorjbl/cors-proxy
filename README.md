@@ -17,5 +17,7 @@ Usage of cors-proxy:
 # Building
 
 ```
-go get 
+go get github.com/monitorjbl/cors-proxy
+cd $GOPATH/src/github.com/monitorjbl/cors-proxy
+go install 
 ```
